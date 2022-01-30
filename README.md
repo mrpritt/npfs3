@@ -22,7 +22,7 @@ g++ -O2 --static --fast-math -std=c++17 -DNDEBUG pnpFSSP.cpp -o pnpFSSP
 ```
 
 ## How to cite
-```
+```bibtex
 @Article{Benavides.Ritt/2018,
   author = 	 {Alexander Benavides and Marcus Ritt},
   title = 	 {Fast heuristics for minimizing the makespan in non-permutation flow shops},
